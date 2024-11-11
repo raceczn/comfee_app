@@ -21,6 +21,10 @@ Comfee short for "Comfort" and "Coffee". A static e-commerce application for man
 
 **Language:** Java
 
+## Screenshots
+
+![Personal Academic Checklist Screenshot](Comfee.png)
+
 
 
 ## License
